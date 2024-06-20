@@ -1,5 +1,4 @@
-# **MAPLE**: **MA**chine translation dataset
-for **P**reference **LE**arning
+# **MAPLE**: **MA**chine translation dataset for **P**reference **LE**arning
 
 We build MAPLE (MAchine translation dataset
 for Preference LEarning), a dataset derived from
